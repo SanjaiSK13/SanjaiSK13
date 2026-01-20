@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanjai K 
 
-🎯 **Software Developer | Data Scientist**  
+🎯 **Software Developer | Data Analyst**  
 📍 Actively seeking **Software Development** and **Data Science** roles
 
 ---
