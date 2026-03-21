@@ -1,98 +1,65 @@
-# 👋 Hi, I'm Sanjai K 
+# 👋 Hi, I'm Sanjai K
 
-🎯 **Software Developer | Data Analyst**  
-📍 Actively seeking **Software Development** and **Data Science** roles
+### 🎯 AI & Machine Learning Engineer | Full-Stack Developer
+📍 **Coimbatore, TN** | 📧 [sanjai1382003@gmail.com](mailto:sanjai1382003@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/sanjak13) | 📁 [GitHub Portfolio](https://github.com/SanjaiSK13)
 
 ---
 
 ## 👨‍💻 Professional Summary
-
-I am a highly motivated engineering student with strong foundations in **software development, data structures, and data science**. I specialize in building scalable backend systems, writing clean and efficient code, and applying data science techniques to solve real-world problems. I am actively seeking opportunities to contribute to high-impact engineering teams while continuously improving my technical depth.
-
----
-
-## 🧠 Core Competencies
-
-### Software Development
-- Data Structures & Algorithms  
-- Object-Oriented Programming (OOP)  
-- Backend Development & REST API Design  
-- Authentication & Authorization (JWT)  
-- Scalable System Design  
-- Debugging & Performance Optimization  
-
-### Data Science
-- Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Feature Engineering  
-- Statistical Analysis  
-- Machine Learning (Supervised Models)  
-- Model Evaluation & Risk Assessment  
+I am a Computer Science graduate currently pursuing an **M.E. in AI & ML**.I specialize in architecting production-grade **RAG pipelines** and bridging the gap between raw data and actionable intelligence.My background includes transitioning physical systems to **100% digital adoption** and building scalable AI solutions with a focus on high-velocity performance and factual accuracy.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Tech Stack
 
-**Programming Languages**  
-- Python | TypeScript
-
-**Backend & Frameworks**  
-- Node.js | Express | REST APIs | JWT | Redis
-
-**Data Science & Machine Learning**  
-- Pandas | NumPy | Matplotlib | Scikit-learn | TensorFlow | OpenCV
-
-**Databases**  
-- MongoDB | SQL
-
-**Developer Tools**  
-- Git | GitHub 
+* **Languages & Web:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, TypeScript, MERN Stack, FastAPI.
+* **AI & Machine Learning:** NLP (RAG), Deep Learning (LSTM, CNN, YOLOv8), Transformers, HuggingFace, XGBoost, Random Forest.
+* **Vector Space & Retrieval:** FAISS, LangChain, Gemini LLM.
+* **Cloud & Tools:** AWS Fundamentals, Docker, Git, Streamlit, MLflow, MySQL Workbench.
 
 ---
 
-## 📌 Selected Projects
+## 📌 Featured Projects
 
-🔹 **Financial Risk Analysis System (Data Science)**  
-- Performed in-depth **financial data analysis** to assess risk exposure  
-- Implemented **data preprocessing, EDA, and feature engineering**  
-- Built and evaluated **machine learning models** for risk prediction  
-- Used statistical metrics to analyze volatility, trends, and potential losses  
+### 🛡️ RAG-Based Business Intelligence Chatbot
+* Developed a high-velocity RAG pipeline using **Gemini 3 Flash** and **FAISS** for automated customer support.
+* Achieved **sub-1.2s response latency**, **92% intent recall**, and **100% factual accuracy**.
+* Eliminated LLM hallucinations through strict context grounding and semantic retrieval logic.
 
-🔹 **Scalable Learning Management System (Software Development)**  
-- Designed role-based authentication (Admin / Instructor / Learner)  
-- Built secure REST APIs with JWT-based authentication  
-- Implemented database-driven architecture with clean separation of concerns  
+### 👁️ AI Smart Vision
+* Architected an end-to-end computer vision system using **YOLOv8** across 25 object categories.
+* Achieved **75% $mAP@0.5$** and **>80% accuracy**.
+* Deployed via **Hugging Face Spaces** with a Streamlit interface for real-time inference.
 
-🔹 **Object Detection & Lane Detection System**  
-- Developed a computer vision pipeline using **TensorFlow & OpenCV**  
-- Focused on model accuracy, real-time detection, and evaluation metrics  
+### ⚠️ Urban Safety Intelligence Platform
+* Modeled tactical safety hotspots by processing **200k+ geospatial records** using **DBSCAN** and **K-Means** clustering.
+* Visualized high-risk zones through an interactive Python dashboard for data-driven city planning.
 
-🔹 **Backend API Systems**  
-- Built production-ready APIs with structured error handling  
-- Optimized database queries and request-response performance  
-
----
-
-## 📈 Strengths
-
-- Strong analytical and problem-solving mindset  
-- Ability to write clean, maintainable, and efficient code  
-- Comfortable working with large datasets and backend systems  
-- Fast learner with strong fundamentals in CS and ML  
+### 📊 Customer Complaint Severity Classification
+* Engineered a multi-class NLP classifier using **LSTM** and **XGBoost** to prioritize **50k+ complaints**.
+* Achieved an **88% F1-score** in automated severity detection.
 
 ---
 
-## 🎯 Career Objective
+## 📈 Experience Highlights
 
-To secure a **Software Developer** or **Data Scientist** role where I can apply my technical skills to build reliable systems, analyze data effectively, and contribute to impactful products in a fast-paced engineering environment.
-
----
-
-## 📫 Contact
-
-- 💼 LinkedIn: https://www.linkedin.com/in/sanjaik13/
-- 📧 Email: sanjai1382003@gmail.com
+**Developer Intern | ELGI Equipments Ltd** 
+* Architected a digital documentation system resulting in **100% digital adoption** and reducing record retrieval time by **40%**.
+* Migrated **5,000+ legacy records** with zero data loss using automated validation scripts.
+* Improved overall workflow efficiency by **25%** through backend data mapping optimization.
 
 ---
 
-⭐ **Open to full-time roles, internships, and entry-level positions in Software Development and Data Science**
+## 📜 Education & Certifications
+
+* **M.E. Computer Science and Engineering (AI & ML Specialization)** | Jansons Institute of Technology 
+* **B.E. Computer Science and Engineering** (Grade: 8.49) 
+* **AWS AI Practitioner** (Expected April 2026) 
+* **Data Science** — Guvi & IITM Parvartak Certified 
+* **AWS Cloud Fundamentals** (AWS Re/start Graduate) 
+* **Python for Data Science** — IBM Certified 
+
+---
+
+⭐ *Open to full-time roles and internships in AI Engineering, Data Science, and Software Development.*
