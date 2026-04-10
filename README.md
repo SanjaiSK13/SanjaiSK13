@@ -2,7 +2,7 @@
 
 ### 🎯 AI & Machine Learning Engineer | Full-Stack Developer
 📍 **Coimbatore, TN** | 📧 [sanjai1382003@gmail.com](mailto:sanjai1382003@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/sanjak13) | 📁 [GitHub Portfolio](https://github.com/SanjaiSK13)
+🔗 [LinkedIn](https://www.linkedin.com/in/sanjak13) 
 
 ---
 
