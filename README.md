@@ -55,7 +55,6 @@ I am a Computer Science graduate currently pursuing an **M.E. in AI & ML**.I spe
 
 * **M.E. Computer Science and Engineering (AI & ML Specialization)** | Jansons Institute of Technology 
 * **B.E. Computer Science and Engineering** (Grade: 8.49) 
-* **AWS AI Practitioner** (Expected April 2026) 
 * **Data Science** — Guvi & IITM Parvartak Certified 
 * **AWS Cloud Fundamentals** (AWS Re/start Graduate) 
 * **Python for Data Science** — IBM Certified 
